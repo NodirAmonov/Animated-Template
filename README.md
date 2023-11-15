@@ -6,4 +6,4 @@ Animated Template - this project is for practicing making animated elements on t
 This project uses Creative Tim Tailwind Starter kit.
 
 
-You can this project [View Live](animated-template-page.netlify.app)
+You can this project [View Live](https://animated-template-page.netlify.app)
